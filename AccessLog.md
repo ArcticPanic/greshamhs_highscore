@@ -1,3 +1,3 @@
-Enter your name here AND if you can list ONE interesting repository - Good Luck
+Elijah Wilson thecodepath/android_guides
 
 JohnWalker - greshamhs_highscore (high score table in progress for our games)
